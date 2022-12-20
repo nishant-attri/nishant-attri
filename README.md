@@ -1,5 +1,5 @@
 
-I’m interested in analyzing the data to provide data driven solutions to propel business growth. 
+I’m interested in analyzing data to provide data driven solutions to propel business growth. 
 
 
 <!---
