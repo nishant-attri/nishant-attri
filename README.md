@@ -1,5 +1,5 @@
-Hi, I’m Nishant. 
-I’m interested in Data Analytics.  
+
+I’m interested in analyzing the data to provide data driven solutions to propel business growth. 
 
 
 <!---
